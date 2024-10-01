@@ -119,6 +119,7 @@ occurrences_b <- occurrences[which(occurrences > freq)]
 print(paste("Length of common word vector: ", length(b)))
 
 ```
+
 ## 4 Build the matrices of word token sequences
 
 Choose a [mlag] means determine a scan-width.
